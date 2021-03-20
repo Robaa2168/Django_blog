@@ -1,4 +1,4 @@
-#### Projects Section (Slider Show):
+
 <img aline="center" src="https://i.imgur.com/1S57RqD.png" alt="secreenshot">
 
 #### About & Contact Me Sections:
