@@ -27,7 +27,7 @@ SECRET_KEY = '0x!b#(1*cd73w$&azzc6p+essg7v=g80ls#z&xcx*mpemx&@9$'
 DEBUG = True
 
 
-ALLOWED_HOSTS = ['rod-heroku.herokuapp.com']
+ALLOWED_HOSTS = ['*']
 # Application definition
 
 INSTALLED_APPS = [
