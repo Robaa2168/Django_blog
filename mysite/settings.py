@@ -26,9 +26,8 @@ SECRET_KEY = '0x!b#(1*cd73w$&azzc6p+essg7v=g80ls#z&xcx*mpemx&@9$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
 
-
+ALLOWED_HOSTS = ['rod-heroku.herokuapp.com']
 # Application definition
 
 INSTALLED_APPS = [
@@ -42,11 +41,13 @@ INSTALLED_APPS = [
     'blog',
     'crispy_forms',
     'django_summernote',
+    'accounts',
 ]
 
 INSTALLED_APPS += ( 'django.contrib.sitemaps',)
 
 MIDDLEWARE = [
+    'whitenoise.middleware.WhiteNoiseMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -149,3 +150,6 @@ MEDIA_URL = '/media/'
 
 # Path where media is stored
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
+
+#  Add configuration for static files storage using whitenoise
+STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
