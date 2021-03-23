@@ -18,7 +18,7 @@ The following command installs all the application requirements
 ## Installations
 
 Run 
-``https://github.com/Robaa2168/blog.git``
+``https://github.com/Robaa2168/Django_blog.git``
 
 or download the zip file from github.
 
