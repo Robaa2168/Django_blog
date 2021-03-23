@@ -6,7 +6,7 @@ This is a personal blogging website where you can create and share your opinions
 
 
 ## Demo
-You can view live demo here https://saphblog.herokuapp.com/
+You can view live demo here https://rod-heroku.herokuapp.com/
 
 
 ## Requirements
