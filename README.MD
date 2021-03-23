@@ -1,5 +1,5 @@
-# Personal Blog
-This is a personal blogging website where you can create and share your opinions and other users can read and comment on them. you also has random quotes that inspire the users. 
+# Django Blog
+This is a  blogging website where you can create and share your opinions and other users can read and comment on them. you also has random quotes that inspire the users. 
 
 ## Author
 > Robert Kipkoech
