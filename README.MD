@@ -25,10 +25,10 @@ or download the zip file from github.
 After extracting the files, 
 
 1. Navigate to the project folder
->`` cd blog.`` 
+>`` cd Django_blog.`` 
 
 2. Creating a virtual environment
->``virtualenv virtual.``
+>``virtualenv virtual``
 
 3. Activating the virtual environment
 >``source virtual/bin/activate.``
@@ -37,14 +37,11 @@ After extracting the files,
 4. Running the application
 >``python manage.py runserver``
 
-5. Running tests
-
- > ``python manage.py test.``
 
 
 ## Technologies used
 * Python3.9
-* Flask
+* Django
 * Html5
 * Css
 * Bootstrap4
@@ -62,12 +59,16 @@ After extracting the files,
 * As a writer, I would like to update or delete blogs I have created.
 * As a writer, I would like to Logout of my account.
 
-## Test Credentials
-* username: robaa40
-* Password: Lahaja50
+## Test Credentials(admin)
+* Linnk: https://rod-heroku.herokuapp.com/admin/
+* username: Admin
+* Password: admin
 
 ## License
-> MIT License &copy; 2020 ROBERT KIPKOECH
+> MIT License &copy; 2021 ROBERT KIPKOECH
 
 ## Collaborate
-To collaborate, reach me on [robertlagat38@gmail.com()
+To collaborate, reach me on
+[robertlagat38@gmail.com() ]
+Phone: +254798530725
+
