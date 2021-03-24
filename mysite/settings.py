@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'crispy_forms',
     'django_summernote',
     'accounts',
+     'users',
 ]
 
 INSTALLED_APPS += ( 'django.contrib.sitemaps',)
