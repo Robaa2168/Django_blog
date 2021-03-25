@@ -5,6 +5,9 @@ from django.urls import path
 from .feeds import LatestPostsFeed, AtomSiteNewsFeed
 
 urlpatterns = [
+    path('register/', views.registerPage, name="register"),
+	path('login/', views.loginPage, name="login"),  
+	path('logout/', views.logoutUser, name="logout"),
     path("feed/rss", LatestPostsFeed(), name="post_feed"),
     path("feed/atom", AtomSiteNewsFeed()),
     path("", views.PostList.as_view(), name="home"),
