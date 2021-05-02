@@ -64,11 +64,11 @@ After extracting the files,
 * username: Admin
 * Password: admin
 
-## License
+> ## License
 > MIT License &copy; 2021 ROBERT KIPKOECH
 
-## Collaborate
-To collaborate, reach me on
+> ## Collaborate
+> To collaborate, reach me on
 [robertlagat38@gmail.com() ]
 Phone: +254798530725
 
