@@ -5,13 +5,13 @@ This is a  blogging website where you can create and share your opinions and oth
 > Robert Kipkoech
 
 
-## Demo
-You can view live demo here https://rod-heroku.herokuapp.com/
+> ## Demo
+> You can view live demo here https://rod-heroku.herokuapp.com/
 
 
-## Requirements
+> ## Requirements
 
-The following command installs all the application requirements... This should be done after you have activated the virtual environ
+> The following command installs all the application requirements... This should be done after you have activated the virtual environ
 >``pip install -r requirements.txt``
 
 
