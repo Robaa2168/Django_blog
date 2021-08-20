@@ -1,7 +1,7 @@
-# Django Blog
-This is a  blogging website where you can create and share your opinions and other users can read and comment on them. you also has random quotes that inspire the users. 
+> # Django Blog
+> This is a  blogging website where you can create and share your opinions and other users can read and comment on them. you also has random quotes that inspire the users. 
 
-## Author
+> ## Author
 > Robert Kipkoech
 
 
@@ -15,12 +15,12 @@ This is a  blogging website where you can create and share your opinions and oth
 >``pip install -r requirements.txt``
 
 
-## Installations
+> ## Installations
 
-Run 
-``https://github.com/Robaa2168/Django_blog.git``
+> Run 
+> ``https://github.com/Robaa2168/Django_blog.git``
 
-or download the zip file from github.
+> or download the zip file from github.
 
 After extracting the files, 
 
