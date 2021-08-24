@@ -1,21 +1,20 @@
-> # Django Blog
+# Django Blog
 > This is a  blogging website where you can create and share your opinions and other users can read and comment on them. you also has random quotes that inspire the users. 
 
 > ## Author
 > Robert Kipkoech
 
-
-> ## Demo
+## Demo
 > You can view live demo here https://rod-heroku.herokuapp.com/
 
 
-> ## Requirements
+## Requirements
 
 > The following command installs all the application requirements... This should be done after you have activated the virtual environ
 >``pip install -r requirements.txt``
 
 
-> ## Installations
+## Installations
 
 > Run 
 > ``https://github.com/Robaa2168/Django_blog.git``
@@ -47,7 +46,7 @@ After extracting the files,
 * Bootstrap4
 
 
-> ## User stories
+## User stories
 > * As a user, I would like to view the blog posts on the site
 > * As a user, I would like to comment on blog posts
 > * As a user, I would like to view the most recent posts
