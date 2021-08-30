@@ -39,11 +39,11 @@ After extracting the files,
 
 
 ## Technologies used
-* Python3.9
-* Django
-* Html5
-* Css
-* Bootstrap4
+> * Python3.9
+> * Django
+> * Html5
+> * Css
+> * Bootstrap4
 
 
 ## User stories
